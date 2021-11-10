@@ -7,7 +7,7 @@ let data={"123":"shivam post 1","124":"imtiyaz post 1","125":"ANI post1"}
 
 
 
-// challenge for those you can take this
+// little challenge
 
 // we are not able to get value of key "123" when we put data[postId] [ex: where postId=123]
 //the challenge is debug and solve the issue why we are not getting "shivam post 1" msg
